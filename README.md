@@ -5,7 +5,7 @@ IR Relay Controller is an Arduino-based system that controls up to 4 relays via 
 - Control up to 4 relays using an IR remote  
 - Save relay states in EEPROM for persistence across power cycles  
 - Store custom IR codes for each relay  
-- Config mode to program new IR codes using a button or a special IR signal  
+- Config mode to program new IR codes using push button or any remote button   
 - Status feedback via serial monitor and built-in LED  
 
 ## Hardware Requirements  
@@ -28,4 +28,4 @@ IR Relay Controller is an Arduino-based system that controls up to 4 relays via 
 ## Installation  
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/yourusername/IR-Relay-Controller.git
+   git clone https://github.com/tfkiot/IRelayControl_with_configMode.git
